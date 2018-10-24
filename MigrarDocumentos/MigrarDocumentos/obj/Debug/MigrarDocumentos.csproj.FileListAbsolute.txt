@@ -1,0 +1,13 @@
+C:\Users\acrux\Documents\Visual Studio 2012\Projects\MigrarDocumentos\MigrarDocumentos\bin\Debug\MigrarDocumentos.exe.config
+C:\Users\acrux\Documents\Visual Studio 2012\Projects\MigrarDocumentos\MigrarDocumentos\bin\Debug\MigrarDocumentos.exe
+C:\Users\acrux\Documents\Visual Studio 2012\Projects\MigrarDocumentos\MigrarDocumentos\bin\Debug\MigrarDocumentos.pdb
+C:\Users\acrux\Documents\Visual Studio 2012\Projects\MigrarDocumentos\MigrarDocumentos\obj\Debug\MigrarDocumentos.csprojResolveAssemblyReference.cache
+C:\Users\acrux\Documents\Visual Studio 2012\Projects\MigrarDocumentos\MigrarDocumentos\obj\Debug\MigrarDocumentos.exe
+C:\Users\acrux\Documents\Visual Studio 2012\Projects\MigrarDocumentos\MigrarDocumentos\obj\Debug\MigrarDocumentos.pdb
+C:\Users\pvelazquez\Documents\GitHub\MigracionDocumentos\MigrarDocumentos\MigrarDocumentos\bin\Debug\MigrarDocumentos.exe.config
+C:\Users\pvelazquez\Documents\GitHub\MigracionDocumentos\MigrarDocumentos\MigrarDocumentos\bin\Debug\MigrarDocumentos.exe
+C:\Users\pvelazquez\Documents\GitHub\MigracionDocumentos\MigrarDocumentos\MigrarDocumentos\bin\Debug\MigrarDocumentos.pdb
+C:\Users\pvelazquez\Documents\GitHub\MigracionDocumentos\MigrarDocumentos\MigrarDocumentos\obj\Debug\MigrarDocumentos.csprojAssemblyReference.cache
+C:\Users\pvelazquez\Documents\GitHub\MigracionDocumentos\MigrarDocumentos\MigrarDocumentos\obj\Debug\MigrarDocumentos.csproj.CoreCompileInputs.cache
+C:\Users\pvelazquez\Documents\GitHub\MigracionDocumentos\MigrarDocumentos\MigrarDocumentos\obj\Debug\MigrarDocumentos.exe
+C:\Users\pvelazquez\Documents\GitHub\MigracionDocumentos\MigrarDocumentos\MigrarDocumentos\obj\Debug\MigrarDocumentos.pdb
